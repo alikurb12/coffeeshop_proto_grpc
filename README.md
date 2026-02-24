@@ -108,9 +108,3 @@ status: orderId:"ABC123" status:"IN PROGRESS"
 - **gRPC** — Remote procedure call framework
 - **Protocol Buffers (proto3)** — Interface definition language
 - **`google.golang.org/grpc`** — Official Go gRPC package
-
----
-
-## License
-
-MIT
